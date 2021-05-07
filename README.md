@@ -1,21 +1,24 @@
 
 <div align="center">
-  <h3>Engenharia Software - Projeto01</h3>
+  <h2>Engenharia Software - Projeto01</h2>
   
-  ![Badge](https://avatars.githubusercontent.com/u/81826373?s=200&v=4)
+  ![Badge](https://github.com/gabrielf7/Engenharia-Software-Projeto01/blob/main/eng-softw-02-hd.jpg)
   
-
-  [FACIMP - FACULDADE DE IMPERATRIZ](https://github.com/NT-Facimp)
+  <p>Créditos: <a href="https://easycompanies.com.au/blog/starting-a-business-whats-stopping-you/">
+    EasyCompanies
+  </a></p>
+  
+  ### [FACIMP - Faculdade de Imperatriz](https://github.com/NT-Facimp)
 </div>
 
-### Sobre o Projeto
+## | Sobre o Projeto
 
 #### Disciplina de Engenharia de Software
 
-##### _Professor(a)_
+##### _Professor(a)_ :speaking_head:
 :man_technologist: [Paulo Henrique Sousa Barbosa](https://github.com/agenteph)
 
-##### _Membros do Grupo_
+##### _Membros do Grupo_ :busts_in_silhouette:
 
   1. :shark: [João Gabriel](https://github.com/gabrielf7)
   2. :shark: [Gustavo Barros](https://github.com/gustavo3g)
@@ -23,11 +26,14 @@
   4. :shark: [Bleno Neves](https://github.com/ibleno)
   5. :shark: [Alexandre Lima](https://github.com/Alexandr3-Lima)
 
-### Sumário
+##### _Descrição_ :writing_hand:
+Obter conhecimento sobre o tema de Engenharia de Software.
+
+## | Sumário
 
 Para acompanhar o sumário você pode entrar [nesse link!](https://github.com/gabrielf7/Engenharia-Software-Projeto01/wiki)
 
-### Recursos
+## | Recursos
  
   - [x] Sumário
   - [ ] Conhecimento de Engenharia de Software
