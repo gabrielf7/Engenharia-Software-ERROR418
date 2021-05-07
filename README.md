@@ -9,7 +9,9 @@
 
 ## Sobre o Projeto
 
-<h4 align="center">FACIMP - FACULDADE DE IMPERATRIZ (link do git da Facimp)</h4>
+<h4 align="center">
+  <a href="https://github.com/NT-Facimp">FACIMP - FACULDADE DE IMPERATRIZ</a>
+</h4>
 
 '''
 
