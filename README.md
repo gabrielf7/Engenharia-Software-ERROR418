@@ -2,39 +2,33 @@
 <div align="center">
   <h3>Engenharia Software - Projeto01</h3>
   
-  <img alt="Tela principal do MR" src="https://avatars.githubusercontent.com/u/81826373?s=200&v=4" 
-    style="width:100px; height:100px;"
-  />
+  ![Badge](https://avatars.githubusercontent.com/u/81826373?s=200&v=4)
+  
+
+  [FACIMP - FACULDADE DE IMPERATRIZ](https://github.com/NT-Facimp)
 </div>
 
-## Sobre o Projeto
+### Sobre o Projeto
 
-<h4 align="center">
-  <a href="https://github.com/NT-Facimp">FACIMP - FACULDADE DE IMPERATRIZ</a>
-</h4>
+#### Disciplina de Engenharia de Software
 
-'''
+##### _Professor(a)_
+:man_technologist: [Paulo Henrique Sousa Barbosa](https://github.com/agenteph)
 
-Disciplina de Engenharia de Software 
+##### _Membros do Grupo_
 
-Professor Paulo Henrique Sousa Barbosa (link do meu git - https://github.com/agenteph)
+  1. :shark: [João Gabriel](https://github.com/gabrielf7)
+  2. :shark: [Gustavo Barros](https://github.com/gustavo3g)
+  3. :shark: [Ricardo Hítalo](https://github.com/ricardohistalo)
+  4. :shark: [Bleno Neves](https://github.com/ibleno)
+  5. :shark: [Alexandre Lima](https://github.com/Alexandr3-Lima)
 
-'''
-
-# Membros do Grupo:
-
-  - [João Gabriel](https://github.com/gabrielf7)
-  - [Gustavo Barros](https://github.com/gustavo3g)
-  - [Ricardo Hítalo](https://github.com/ricardohistalo)
-  - [Bleno Neves](https://github.com/ibleno)
-  - [Alexandre Lima](https://github.com/Alexandr3-Lima)
-
-## Sumário
+### Sumário
 
 Para acompanhar o sumário você pode entrar [nesse link!](https://github.com/gabrielf7/Engenharia-Software-Projeto01/wiki)
 
-## Recursos
+### Recursos
  
-  - Sumário.
-  - Conhecimento de Engenharia de Software.
-  - ...
+  - [x] Sumário
+  - [ ] Conhecimento de Engenharia de Software
+  - [ ] etc...
