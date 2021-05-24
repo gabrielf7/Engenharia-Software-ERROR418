@@ -1,8 +1,8 @@
 
 <div align="center">
-  <h2>Engenharia de Software - Projeto01</h2>
+  <h2>Engenharia de Software - ERROR418</h2>
   
-  ![Badge](https://github.com/gabrielf7/Engenharia-Software-Projeto01/blob/main/assets/eng-softw-02-hd.jpg)
+  ![Badge](https://github.com/gabrielf7/Engenharia-Software-ERROR418/blob/main/assets/eng-softw-02-hd.jpg)
   
   <p>Créditos: <a href="https://easycompanies.com.au/blog/starting-a-business-whats-stopping-you/">
     EasyCompanies
@@ -32,7 +32,7 @@ Obter conhecimento sobre o tema de Engenharia de Software.
 
 ## | Sumário
 
-Para acompanhar o sumário você pode entrar [nesse link!](https://github.com/gabrielf7/Engenharia-Software-Projeto01/wiki)
+Para acompanhar o sumário você pode entrar [nesse link!](https://github.com/gabrielf7/Engenharia-Software-ERROR418/wiki)
 
 ## | Recursos
  
