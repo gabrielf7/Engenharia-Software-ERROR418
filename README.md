@@ -34,8 +34,5 @@ Obter conhecimento sobre o tema de Engenharia de Software.
 
 Para acompanhar o sumário você pode entrar [nesse link!](https://github.com/gabrielf7/Engenharia-Software-ERROR418/wiki)
 
-## | Recursos
- 
-  - [x] Sumário
-  - [ ] Conhecimento de Engenharia de Software
-  - [ ] etc...
+## | Divulgação
+Linkedin: [Acesse aqui](https://www.linkedin.com/feed/update/urn:li:activity:6815775337553653760/)
